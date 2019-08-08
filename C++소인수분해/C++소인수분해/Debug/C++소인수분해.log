@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\호준\documents\visual studio 2015\projects\c++소인수분해\c++소인수분해\소스.cpp(64): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  C++소인수분해.vcxproj -> C:\Users\호준\Documents\Visual Studio 2015\Projects\C++소인수분해\Debug\C++소인수분해.exe

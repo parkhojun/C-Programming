@@ -1,0 +1,15 @@
+﻿  소스.c
+c:\users\호준\documents\visual studio 2015\projects\과제1행렬덧셈\과제1행렬덧셈\소스.c(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\호준\documents\visual studio 2015\projects\과제1행렬덧셈\과제1행렬덧셈\소스.c(29): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\호준\documents\visual studio 2015\projects\과제1행렬덧셈\과제1행렬덧셈\소스.c(35): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\호준\documents\visual studio 2015\projects\과제1행렬덧셈\과제1행렬덧셈\소스.c(39): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\호준\documents\visual studio 2015\projects\과제1행렬덧셈\과제1행렬덧셈\소스.c(46): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\호준\documents\visual studio 2015\projects\과제1행렬덧셈\과제1행렬덧셈\소스.c(23): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
+c:\users\호준\documents\visual studio 2015\projects\과제1행렬덧셈\과제1행렬덧셈\소스.c(21): warning C4101: 'no_data' :참조되지 않은 지역 변수입니다.
+c:\users\호준\documents\visual studio 2015\projects\과제1행렬덧셈\과제1행렬덧셈\소스.c(24): warning C4101: 'arr2' :참조되지 않은 지역 변수입니다.
+  과제1행렬덧셈.vcxproj -> C:\Users\호준\Documents\Visual Studio 2015\Projects\과제1행렬덧셈\Debug\과제1행렬덧셈.exe

@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\호준\documents\visual studio 2015\projects\과제2-최대최소구하기\과제2-최대최소구하기\소스.c(24): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
+  과제2-최대최소구하기.vcxproj -> C:\Users\호준\Documents\Visual Studio 2015\Projects\과제2-최대최소구하기\Debug\과제2-최대최소구하기.exe

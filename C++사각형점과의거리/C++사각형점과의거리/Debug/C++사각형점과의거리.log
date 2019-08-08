@@ -1,0 +1,3 @@
+﻿  소스1.cpp
+c:\users\호준\documents\visual studio 2015\projects\c++사각형점과의거리\c++사각형점과의거리\소스1.cpp(42): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  C++사각형점과의거리.vcxproj -> C:\Users\호준\Documents\Visual Studio 2015\Projects\C++사각형점과의거리\Debug\C++사각형점과의거리.exe

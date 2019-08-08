@@ -1,0 +1,2 @@
+﻿  소스.cpp
+c:\users\호준\documents\visual studio 2015\projects\partime\partime\소스.cpp(28): error C2614: 'PartTimeWorker': 멤버 초기화가 잘못되었습니다. 'worker_time'이(가) 기본 또는 멤버가 아닙니다.

@@ -1,0 +1,12 @@
+﻿  MyTriangle.cpp
+c:\users\호준\documents\visual studio 2015\projects\c++삼각형\c++삼각형\mytriangle.h(10): warning C4091: 'typedef ': 변수를 선언하지 않으면 'MyTriangle::TriangleType1' 왼쪽은 무시됩니다.
+c:\users\호준\documents\visual studio 2015\projects\c++삼각형\c++삼각형\mytriangle.h(14): warning C4091: 'typedef ': 변수를 선언하지 않으면 'MyTriangle::TriangleType2' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  TestMyTriangle.cpp
+  MyPoint.cpp
+  MyLineSegment.cpp
+FileTracker : error FTK1013: 파일 추적 로그 파일 C:\Users\호준\Documents\Visual Studio 2015\Projects\C++삼각형\C++삼각형\Debug\C++삼각형.tlog\CL.read.1.tlog에서 유니코드 바이트 순서 표식을 찾을 수 없습니다. 추적 데이터가 잘못되었습니다.
+  
+FileTracker : error FTK1013: 파일 추적 로그 파일 C:\Users\호준\Documents\Visual Studio 2015\Projects\C++삼각형\C++삼각형\Debug\C++삼각형.tlog\CL.write.1.tlog에서 유니코드 바이트 순서 표식을 찾을 수 없습니다. 추적 데이터가 잘못되었습니다.
+  

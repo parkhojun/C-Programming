@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\호준\documents\visual studio 2015\projects\c++시이저암호기법\c++시이저암호기법\소스.cpp(40): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\호준\documents\visual studio 2015\projects\c++시이저암호기법\c++시이저암호기법\소스.cpp(41): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  C++시이저암호기법.vcxproj -> c:\users\호준\documents\visual studio 2015\Projects\C++시이저암호기법\Debug\C++시이저암호기법.exe

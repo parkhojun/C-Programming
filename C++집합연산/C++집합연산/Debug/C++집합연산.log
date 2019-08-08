@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\호준\documents\visual studio 2015\projects\c++집합연산\c++집합연산\소스.cpp(33): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+  C++집합연산.vcxproj -> C:\Users\호준\Documents\Visual Studio 2015\Projects\C++집합연산\Debug\C++집합연산.exe

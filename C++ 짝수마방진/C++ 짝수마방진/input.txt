@@ -1,0 +1,11 @@
+3
+4
+6
+8
+
+	/*if (number % 2 == 1 || number<3 || number>100)
+		exit(1);
+		*/
+	make();
+	/*if (!checkSquare())
+		exit(1);*/

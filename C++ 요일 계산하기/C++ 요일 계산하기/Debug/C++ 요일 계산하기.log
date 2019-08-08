@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\호준\documents\visual studio 2015\projects\c++ 요일 계산하기\c++ 요일 계산하기\소스.cpp(33): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  C++ 요일 계산하기.vcxproj -> C:\Users\호준\Documents\Visual Studio 2015\Projects\C++ 요일 계산하기\Debug\C++ 요일 계산하기.exe

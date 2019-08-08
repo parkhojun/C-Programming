@@ -1,0 +1,7 @@
+﻿  소스.c
+c:\users\호준\documents\visual studio 2015\projects\hw2_1\hw2_1\소스.c(6): warning C4552: '+': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+c:\users\호준\documents\visual studio 2015\projects\hw2_1\hw2_1\소스.c(11): warning C4552: '+': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+c:\users\호준\documents\visual studio 2015\projects\hw2_1\hw2_1\소스.c(23): warning C4552: '*': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+c:\users\호준\documents\visual studio 2015\projects\hw2_1\hw2_1\소스.c(41): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+c:\users\호준\documents\visual studio 2015\projects\hw2_1\hw2_1\소스.c(44): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  hw2_1.vcxproj -> C:\Users\호준\Documents\Visual Studio 2015\Projects\hw2_1\Debug\hw2_1.exe

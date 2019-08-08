@@ -1,0 +1,24 @@
+2
+8 8
+6
+xxxxxoxo
+xxxxxoox
+xxxxxxox
+xxxxxxxx
+xxxxxxxx
+xxxxxxxx
+oooxxxxx
+xxxxxxxx
+11 25
+39
+xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxooxxxxxxxxx
+xxxxxxxxxxxxxoxxxoxxxxxxx
+xxxxxxxxxxxxoxxxxxoxxxxxx
+xxxxxxxxxxxxoxxxoxooxxxxx
+xxxxxxxxxxxxoxxxxxoxxxxxx
+xxxxxxxxxxxxxoxxxoxxxxxxx
+xxxxxxxxxxxxxxooxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx

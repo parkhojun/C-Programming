@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\호준\documents\visual studio 2015\projects\c++진수변환\c++진수변환\소스.cpp(65): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\호준\documents\visual studio 2015\projects\c++진수변환\c++진수변환\소스.cpp(67): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C++진수변환.vcxproj -> C:\Users\호준\Documents\Visual Studio 2015\Projects\C++진수변환\Debug\C++진수변환.exe

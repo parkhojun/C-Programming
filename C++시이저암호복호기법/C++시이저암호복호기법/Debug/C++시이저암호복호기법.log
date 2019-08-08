@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\호준\documents\visual studio 2015\projects\c++시이저암호복호기법\c++시이저암호복호기법\소스.cpp(10): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\호준\documents\visual studio 2015\projects\c++시이저암호복호기법\c++시이저암호복호기법\소스.cpp(10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  C++시이저암호복호기법.vcxproj -> c:\users\호준\documents\visual studio 2015\Projects\C++시이저암호복호기법\Debug\C++시이저암호복호기법.exe

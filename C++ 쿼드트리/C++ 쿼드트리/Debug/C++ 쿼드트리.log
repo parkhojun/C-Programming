@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\호준\documents\visual studio 2015\projects\c++ 쿼드트리\c++ 쿼드트리\소스.cpp(45): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+c:\users\호준\documents\visual studio 2015\projects\c++ 쿼드트리\c++ 쿼드트리\소스.cpp(50): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+  C++ 쿼드트리.vcxproj -> C:\Users\호준\Documents\Visual Studio 2015\Projects\C++ 쿼드트리\Debug\C++ 쿼드트리.exe
